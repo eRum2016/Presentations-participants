@@ -1,0 +1,6 @@
+Using Google Analytics with R
+--------------------------------------------
+Michal Brys, michalbrys@gmail.com, @michalbrys
+
+Slides available here:
+goo.gl/yLg3n9
