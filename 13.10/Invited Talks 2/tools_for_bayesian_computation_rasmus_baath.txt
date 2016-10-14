@@ -1,0 +1,5 @@
+Tricks & Tools for Bayesian computation in R
+--------------------------------------------
+Rasmus Bååth, rasmus.baath@gmail.com, @rabaath
+
+Slides available here: https://goo.gl/IgUoz4
