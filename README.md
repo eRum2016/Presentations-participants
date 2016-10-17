@@ -69,34 +69,34 @@
 ## Day 3 (14.10)
 
 1. Invited talks IV - chairman: Matthias Templ
-	+ R and C++ - Romain Francois
-	+ Genie: A new, fast, and outlier-resistant hierarchical clustering algorithm and its R interface - Marek Gagolewski
+	+ [R and C++ - Romain Francois](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Invited%20Talks%204/romain_francois_R_and_C%2B%2B.pdf)
+	+ [Genie: A new, fast, and outlier-resistant hierarchical clustering algorithm and its R interface - Marek Gagolewski](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Invited%20Talks%204/Gagolewski_eRum_Genie.pdf)
 2. Invited talks V - chairman: Katarzyna Stapor
 	+ Simulation of complex synthetic data with the R package simPop - Matthias Templ
 	+ Geo-located point data: measurement of agglomeration and concentration - Katarzyna Kopczewska
 3. Parallel session IV - chairman: Joanna Zyprych-Walczak
 	+ Lightning talks
-		+ R as a tool for graphical diagnostics in population pharmacokinetic modeling - Agnieszka Borsuk
-		+ Machine learning modeling of phenological phases in Poland - Bartosz Czernecki
+		+ [R as a tool for graphical diagnostics in population pharmacokinetic modeling - Agnieszka Borsuk](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/Borsuk%20-%20R%20as%20a%20tool%20for%20graphical%20diagnostics%20in%20PopPK.pdf)
+		+ [Machine learning modeling of phenological phases in Poland - Bartosz Czernecki](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/bczernecki_jnowosad_kjablonska_erum.pdf)
 		+ Latent Class Analysis in Psychology - Pawel Kleka
-		+ Exploratory data analysis of a clinical study group - revealing patient subgroups - Bogumil Konopka
-		+ Multidimensional Clustering of Web Analytics Data - Alexander Kruse
-		+ R shiny server as core of multiple technologies into Travel Industry - Giovanni Lotti
+		+ [Exploratory data analysis of a clinical study group - revealing patient subgroups - Bogumil Konopka](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/BKonopka_DataExploration_eRUM2016.pdf)
+		+ [Multidimensional Clustering of Web Analytics Data - Alexander Kruse](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/eRum_Lighnting_Talk_Kruse.pdf)
+		+ [R shiny server as core of multiple technologies into Travel Industry - Giovanni Lotti](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/rhubble_Giovanni.pdf)
 		+ Turning Text Mining into Language Mining: Corpus Linguistics in R - George Moroz
 		+ Structural bioinformatician's notebooks with pdbeeR and knitr - Pawel Piatkowski
 		+ Using R to incorporate data science into the undergraduate statistics curriculum - Paul Roback
-		+ Analysing the statistical effects of manipulated data - Luigi Lombardi
+		+ [Analysing the statistical effects of manipulated data - Luigi Lombardi](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/Lombardi-Bressan-eR2016-LT.pdf)
 		+ Cryptography in R - Jeroen Ooms
-		+ Visualizing changes in demographics with R - Piotr Sobczyk
-		+ R for pharmacokineticists - smulation of steady-state concentrations of amiodarone in heart compartmental model as an example - Zofia Tylutki
+		+ [Visualizing changes in demographics with R - Piotr Sobczyk](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/erum_visualization_Sobczyk.pdf)
+		+ [R for pharmacokineticists - smulation of steady-state concentrations of amiodarone in heart compartmental model as an example - Zofia Tylutki](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/erum2016_ZTylutki.pdf)
 	+ Data workflow II - chairman: Marcin Dyderski
 		+ Power of Java's RSession and rKafka in the data science team collaboration - Pawel Cejrowski
 		+ R Shiny for Real-time Analytics and Insight Delivery ? A Solution for Complex Data in Agriculture - Ming Shan
 		+ Seamless external R server integration with Excel with step-by-step debugging of the R code - Adam Ryczkowski
 		+ Workflow around modelling in Data Science / R - Filip Stachura
 	+ Education learning - chairman: Alicja Szabelska-Beręsewicz
-		+ Revolutionize how you teach and blog: add interactivity - Filip Schouwenaars
+		+ [Revolutionize how you teach and blog: add interactivity - Filip Schouwenaars](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Education%20learning/Revolutionize_the_way_you_teach_and_blog_tutorial_package_Filip_Schouwenaars.pdf)
 		+ Aargh I have to teach R (Experiences in the teaching of R) - Martin Schneider
-		+ Using R for artistic purposes - Päivi Julin
+		+ [Using R for artistic purposes - Päivi Julin](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Education%20learning/Using_r_for_artistic_purposes_Paivi_Julin.pdf)
 		+ Polish Diet Commissions - Text Analysis - Kamil Krawczyk
-4. Closing session - Maciej Beręsewicz
+4. [Closing session - Maciej Beręsewicz](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Closing%20session/ending.pdf)
