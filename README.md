@@ -65,6 +65,19 @@
 		+ R as an Environment for the Reproducible Analysis of DNA Amplification Experiments - Stefan Rödiger 
 		+ Big data genomics data warehouses analyses with R - Marek Wiewiórka
 		+ Using SparkR with distributed database in Parquet - a genomic example - Michal Okoniewski
+8. Poster session
+        + What are sampling errors in the vegetation studies using visual estimation of presence and cover of plants? R can help - Damian Chmura
+        + RNA-seq transcriptional profiling of PPD-b-stimulated peripheral blood from cattle infected with Mycobacterium bovis - Carolina Correia
+        + Pharmacokinetics-driven modeling of metabolomics data - Emilia Daghir-Wojtkowiak
+        + R as a tool for geospatial modeling in large dataset - example of dasymetric modeling at a continental scale (United States) - Anna Dmowska
+        + Application of Artificial Neural Network to Planar Chromatography Data - Dimitri Fichou
+        + cgmisc: enhanced genome-wide association analyses and visualization - Jagoda Jabłonska
+        + Penalized regression inference regarding variable selection in regular and high dimensions: comparison of selected methods implemented in R - Marta Karas
+        + Wrestling with big data in forestry: use of R in Scots pine site index analysis - Wojciech Kedziora
+        + An R implementation of Kauffman's NK model - Tomasz Owczarek
+        + R as an effective data mining tool in chemistry - Anna Rybinska
+        + Applying genetic algorithms to calibrate a processing chain for a Landsat-based time series analysis of disturbance - regrowth dynamics in tropical forests - Fabián Santos
+        + Modelling the distrubution of the bryophytes in different spatial scales - Sylwia Wierzcholska
 
 ## Day 3 (14.10)
 
