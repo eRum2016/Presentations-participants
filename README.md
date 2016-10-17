@@ -70,7 +70,7 @@
         + RNA-seq transcriptional profiling of PPD-b-stimulated peripheral blood from cattle infected with Mycobacterium bovis - Carolina Correia
         + Pharmacokinetics-driven modeling of metabolomics data - Emilia Daghir-Wojtkowiak
         + R as a tool for geospatial modeling in large dataset - example of dasymetric modeling at a continental scale (United States) - Anna Dmowska
-        + Application of Artificial Neural Network to Planar Chromatography Data - Dimitri Fichou
+        + [Application of Artificial Neural Network to Planar Chromatography Data - Dimitri Fichou](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Posters/ANN_TLC_Dimitri%20GM.pdf)
         + cgmisc: enhanced genome-wide association analyses and visualization - Jagoda Jabłonska
         + Penalized regression inference regarding variable selection in regular and high dimensions: comparison of selected methods implemented in R - Marta Karas
         + Wrestling with big data in forestry: use of R in Scots pine site index analysis - Wojciech Kedziora
