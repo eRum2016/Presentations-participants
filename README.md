@@ -1,15 +1,13 @@
 # eRum 2016 -- presentations
 
-eRum 2016 participants' presentations
-
 ## Day 1 (12.10) -- workshops, see: https://github.com/eRum2016/Workshops
 
 ## Day 2 (13.10)
 
-1. Welcome Session - Maciej Beręsewicz
+1. [Welcome Session - Maciej Beręsewicz](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Welcome%20session/erum-2016-basic.pdf)
 2. Invited Talks I - chairman: Rasmus Bååth
 	+ Addressing the Gender Gap in the R Project - Heather Turner
-	+ Heteroscedastic Discriminant Analysis and its integration into ?mlR? package for uniform machine learning - Katarzyna Stapor
+	+ [Heteroscedastic Discriminant Analysis and its integration into ?mlR? package for uniform machine learning - Katarzyna Stapor](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Invited%20Talks%201/KStapor-Poznan0.pdf)
 3. Parallel session I
 	+ Methodology 1 - chairman: Marcin Szymkowiak
 		+ Ensemble learning - idea and applications - Mateusz Filarowski
@@ -17,30 +15,30 @@ eRum 2016 participants' presentations
 	+ Business 1  - chairman: Lukasz Wawrowski
 		+ Turning R into production ? make your models reality - Michal Zylinski
 		+ RevoScaleR - performance and scalability R - Lukasz Grala
-		+ Bringing R to Enterprise - Wit Jakuczun 
-		+ Data science outside the box: Developing a generic scoring algorithm for customer acquisition - Erik Barzagar-Nazari
+		+ [Bringing R to Enterprise - Wit Jakuczun ](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%201/eRum_Bringing_R_to_Enterprise_final.pdf)
+		+ [Data science outside the box: Developing a generic scoring algorithm for customer acquisition - Erik Barzagar-Nazari](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%201/eRum2016_data_science_outside_the_box_erik_barzagar_nazari.pdf)
 		+ Embedding R in business processes - Andreas Wygrabek
 	+ Packages 1 - chairman: Tomasz Górecki
-		+ Reconciling forecasts: the hts package - Rob Hyndman
+		+ [Reconciling forecasts: the hts package - Rob Hyndman](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Packages%201/Hyndman_eRum_2016.pdf)
 		+ stplanr: an R package for transport planning  - Robin Lovelace
-		+ brms: An R Package for Bayesian Multilevel Models using Stan - Paul-Christian Buerkner
+		+ [brms: An R Package for Bayesian Multilevel Models using Stan - Paul-Christian Buerkner](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Packages%201/brms_talk_eRum_2016.pdf)
 		+ Modules in R - Sebastian Warnholz 
 		+ influence.SEM 2.0: An R Package for Sensitivity Analysis in Structural Equation Models - Massimiliano Pastore
 4. Invited Talks II  - chairman: Katarzyna Kopczewska
-	+ A survey of tools for Bayesian data analysis in R - Rasmus Bååth
-	+ Browse Till You Die: Scalable Hierarchical Bayesian Modeling of cookie deletion - Jakub Glinka
+	+ [A survey of tools for Bayesian data analysis in R - Rasmus Bååth](https://goo.gl/IgUoz4)
+	+ [Browse Till You Die: Scalable Hierarchical Bayesian Modeling of cookie deletion - Jakub Glinka](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Invited%20Talks%202/Jakub_Glinka_HB_eRum_2016.pdf)
 5. Parallel session II
 	+ Methodology 2 - chairman: Maciej Beresewicz
-		+ Unattended SVM parameters fitting for monitoring nonlinear profiles - Emilio L. Cano
-		+ SimonsSVM: A Fast and Scalable Support Vector Machine Implementation for R - Philipp Thomann
-		+ Discrete Choice Models in R - Daniel Guhl
-		+ Multivariate analysis of variance for functional data using R - Tomasz Górecki
-		+ Text Mining in R - Christoph Hoffmann
+		+ [Unattended SVM parameters fitting for monitoring nonlinear profiles - Emilio L. Cano](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%202/02_presentation.pdf)
+		+ [SimonsSVM: A Fast and Scalable Support Vector Machine Implementation for R - Philipp Thomann](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%202/thomann_erum_2016.pdf)
+		+ [Discrete Choice Models in R - Daniel Guhl](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%202/eRum_GG2016.pdf)
+		+ [Multivariate analysis of variance for functional data using R - Tomasz Górecki](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%202/GoreckiSmaga.pdf)
+		+ [Text Mining in R - Christoph Hoffmann](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%202/hoffmann_text_mining_in_R.pdf)
 	+ Business 2 - chairman: Adolfo Alvarez
-		+ Enterprise R Platform ? the what, the why and the how - David Kun
+		+ [Enterprise R Platform ? the what, the why and the how - David Kun](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%202/Functional%20Finances%20eRum%202016.pdf)
 		+ R in the Mittelstand: Bringing Data Science to small and mid-size companies - Oliver Bracht
 		+ R tools and tricks for marketing inference in a big internet company - Pawel Ladyzynski
-		+ Using Google Analytics with R - Michal Brys
+		+ [Using Google Analytics with R - Michal Brys](goo.gl/yLg3n9)
 		+ Using R for backtesting algorithmic trading strategies on high-frequency data - Piotr Wojcik
 	+ Packages 2  - chairman: Marek Gagolewski
 		+ EnvCpt: An R package for changepoint identification in Environmental data - Rebecca Killick
@@ -48,19 +46,19 @@ eRum 2016 participants' presentations
 		+ LimeRick: Bridge between LimeSurvey and R - Kamil Wais
 		+ An R package for consumer and sensory mapping: comparison of preference mapping stability - Rebhi Ibtihel
 6. Invited Talks III - chairman: Heather Turner
-	+ Design of Experiments in R - Ulrike Grömping
-	+ How to use R to hack the publicly available data about skills of 2M+ worldwide students? - Przemyslaw Biecek
+	+ [Design of Experiments in R - Ulrike Grömping](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Invited%20Talks%203/eRum2016UG_animationssplit.pdf)
+	+ [How to use R to hack the publicly available data about skills of 2M+ worldwide students? - Przemyslaw Biecek](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Invited%20Talks%203/erum_Przemyslaw_Biecek.pdf)
 7. Parallel session III
 	+ Methodology III - chairman: Tomasz Klimanek
 		+ Classic and network based cluster analysis: together we're better - Adolfo Alvarez
-		+ M-quantile regression in R - Maciej Beresewicz
-		+ Is forest a pharmacy? - problems with data analyses - Marcin Dyderski
-		+ k Prototypes Clustering of Mixed Type Data - Gero Szepannek
-	+ Data workflow II  - chairman: Marcin Kosinski
+		+ [M-quantile regression in R - Maciej Beresewicz](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%203/m-quantile-regression.pdf)
+		+ [Is forest a pharmacy? - problems with data analyses - Marcin Dyderski](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%203/Is%20forest%20a%20pharmacy.pdf)
+		+ [k Prototypes Clustering of Mixed Type Data - Gero Szepannek](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%203/SzepannekeRum2016_final.pdf)
+	+ Data workflow I  - chairman: Marcin Kosinski
 		+ Dynamic Inflation Rate Calculation of Fast-Moving Consumer Goods: Shiny-SparkR App - Olgun Aydin
-		+ Introduction to RDruid - Michal Maj
+		+ [Introduction to RDruid - Michal Maj](https://maju116.github.io/eRum2016/#/)
 		+ Search phrases in e-commerce platform allegro.pl - big data analysis using SparkR - Anna Wróblewska
-		+ The full process of creating an R application in recommendation systems: from Dockerfile to Zabbix monitoring - Natalia Potocka
+		+ [The full process of creating an R application in recommendation systems: from Dockerfile to Zabbix monitoring - Natalia Potocka](https://potockan.github.io/eRum2016/#/)
 	+ BioR - chairman: Przemyslaw Biecek
 		+ Are we ready for Personalized Medicine? - Pawel Labaj
 		+ N-gram analysis of biological sequences in R - Michal Burdukiewicz
