@@ -6,7 +6,7 @@
 
 1. [Welcome Session - Maciej Beręsewicz](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Welcome%20session/erum-2016-basic.pdf)
 2. Invited Talks I - chairman: Rasmus Bååth
-	+ Addressing the Gender Gap in the R Project - Heather Turner
+	+ [Addressing the Gender Gap in the R Project - Heather Turner](https://cdn.rawgit.com/eRum2016/Presentations-participants/master/13.10/Invited%20Talks%201/Addressing_the_Gender_Gap_in_the_R_Project-Heather_Turner.html)
 	+ [Heteroscedastic Discriminant Analysis and its integration into ?mlR? package for uniform machine learning - Katarzyna Stapor](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Invited%20Talks%201/KStapor-Poznan0.pdf)
 3. Parallel session I
 	+ Methodology 1 - chairman: Marcin Szymkowiak
@@ -17,7 +17,7 @@
 		+ RevoScaleR - performance and scalability R - Lukasz Grala
 		+ [Bringing R to Enterprise - Wit Jakuczun ](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%201/eRum_Bringing_R_to_Enterprise_final.pdf)
 		+ [Data science outside the box: Developing a generic scoring algorithm for customer acquisition - Erik Barzagar-Nazari](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%201/eRum2016_data_science_outside_the_box_erik_barzagar_nazari.pdf)
-		+ Embedding R in business processes - Andreas Wygrabek
+		+ [Embedding R in business processes - Andreas Wygrabek](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%201/analytics_final.pptx)
 	+ Packages 1 - chairman: Tomasz Górecki
 		+ [Reconciling forecasts: the hts package - Rob Hyndman](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Packages%201/Hyndman_eRum_2016.pdf)
 		+ stplanr: an R package for transport planning  - Robin Lovelace
@@ -36,14 +36,14 @@
 		+ [Text Mining in R - Christoph Hoffmann](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%202/hoffmann_text_mining_in_R.pdf)
 	+ Business 2 - chairman: Adolfo Alvarez
 		+ [Enterprise R Platform ? the what, the why and the how - David Kun](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%202/Functional%20Finances%20eRum%202016.pdf)
-		+ R in the Mittelstand: Bringing Data Science to small and mid-size companies - Oliver Bracht
+		+ [R in the Mittelstand: Bringing Data Science to small and mid-size companies - Oliver Bracht](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%202/Implementing_R_in_the_Mittelstand.pptx)
 		+ R tools and tricks for marketing inference in a big internet company - Pawel Ladyzynski
 		+ [Using Google Analytics with R - Michal Brys](goo.gl/yLg3n9)
 		+ Using R for backtesting algorithmic trading strategies on high-frequency data - Piotr Wojcik
 	+ Packages 2  - chairman: Marek Gagolewski
 		+ EnvCpt: An R package for changepoint identification in Environmental data - Rebecca Killick
 		+ archivist 2.0: News from Managing Data Analysis Results Toolkit - Marcin Kosinski
-		+ LimeRick: Bridge between LimeSurvey and R - Kamil Wais
+		+ [LimeRick: Bridge between LimeSurvey and R - Kamil Wais](https://cdn.rawgit.com/eRum2016/Presentations-participants/master/13.10/Packages%202/erum.html)
 		+ An R package for consumer and sensory mapping: comparison of preference mapping stability - Rebhi Ibtihel
 6. Invited Talks III - chairman: Heather Turner
 	+ [Design of Experiments in R - Ulrike Grömping](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Invited%20Talks%203/eRum2016UG_animationssplit.pdf)
@@ -91,13 +91,13 @@
 	+ Lightning talks
 		+ [R as a tool for graphical diagnostics in population pharmacokinetic modeling - Agnieszka Borsuk](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/Borsuk%20-%20R%20as%20a%20tool%20for%20graphical%20diagnostics%20in%20PopPK.pdf)
 		+ [Machine learning modeling of phenological phases in Poland - Bartosz Czernecki](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/bczernecki_jnowosad_kjablonska_erum.pdf)
-		+ Latent Class Analysis in Psychology - Pawel Kleka
+		+ [Latent Class Analysis in Psychology - Pawel Kleka](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/lca.pptx)
 		+ [Exploratory data analysis of a clinical study group - revealing patient subgroups - Bogumil Konopka](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/BKonopka_DataExploration_eRUM2016.pdf)
 		+ [Multidimensional Clustering of Web Analytics Data - Alexander Kruse](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/eRum_Lighnting_Talk_Kruse.pdf)
 		+ [R shiny server as core of multiple technologies into Travel Industry - Giovanni Lotti](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/rhubble_Giovanni.pdf)
 		+ Turning Text Mining into Language Mining: Corpus Linguistics in R - George Moroz
 		+ Structural bioinformatician's notebooks with pdbeeR and knitr - Pawel Piatkowski
-		+ Using R to incorporate data science into the undergraduate statistics curriculum - Paul Roback
+		+ [Using R to incorporate data science into the undergraduate statistics curriculum - Paul Roback](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/eRum%20presentation_Roback.pptx)
 		+ [Analysing the statistical effects of manipulated data - Luigi Lombardi](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/Lombardi-Bressan-eR2016-LT.pdf)
 		+ Cryptography in R - Jeroen Ooms
 		+ [Visualizing changes in demographics with R - Piotr Sobczyk](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/erum_visualization_Sobczyk.pdf)
@@ -109,7 +109,7 @@
 		+ Workflow around modelling in Data Science / R - Filip Stachura
 	+ Education learning - chairman: Alicja Szabelska-Beręsewicz
 		+ [Revolutionize how you teach and blog: add interactivity - Filip Schouwenaars](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Education%20learning/Revolutionize_the_way_you_teach_and_blog_tutorial_package_Filip_Schouwenaars.pdf)
-		+ Aargh I have to teach R (Experiences in the teaching of R) - Martin Schneider
+		+ [Aargh I have to teach R (Experiences in the teaching of R) - Martin Schneider](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Education%20learning/aargh_i_have_to_teach_R_Martin_Schneider.pptx)
 		+ [Using R for artistic purposes - Päivi Julin](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Education%20learning/Using_r_for_artistic_purposes_Paivi_Julin.pdf)
 		+ Polish Diet Commissions - Text Analysis - Kamil Krawczyk
 4. [Closing session - Maciej Beręsewicz](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Closing%20session/ending.pdf)
