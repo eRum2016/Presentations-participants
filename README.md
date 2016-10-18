@@ -52,12 +52,12 @@
 	+ Methodology III - chairman: Tomasz Klimanek
 		+ Classic and network based cluster analysis: together we're better - Adolfo Alvarez
 		+ [M-quantile regression in R - Maciej Beresewicz](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%203/m-quantile-regression.pdf)
-		+ [Is forest a pharmacy? - problems with data analyses - Marcin Dyderski](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%203/Is%20forest%20a%20pharmacy.pdf)
+		+ [Is forest a pharmacy? - problems with data analyses - Marcin Dyderski](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%203/Is%20forest%20a%20pharmacy_po.pdf)
 		+ [k Prototypes Clustering of Mixed Type Data - Gero Szepannek](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Methodology%203/SzepannekeRum2016_final.pdf)
 	+ Data workflow I  - chairman: Marcin Kosinski
 		+ Dynamic Inflation Rate Calculation of Fast-Moving Consumer Goods: Shiny-SparkR App - Olgun Aydin
 		+ [Introduction to RDruid - Michal Maj](https://maju116.github.io/eRum2016/#/)
-		+ Search phrases in e-commerce platform allegro.pl - big data analysis using SparkR - Anna Wróblewska
+		+ [Search phrases in e-commerce platform allegro.pl - big data analysis using SparkR - Anna Wróblewska](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Data%20Workflow%201/eRUM-SparkR.pdf)
 		+ [The full process of creating an R application in recommendation systems: from Dockerfile to Zabbix monitoring - Natalia Potocka](https://potockan.github.io/eRum2016/#/)
 	+ BioR - chairman: Przemyslaw Biecek
 		+ Are we ready for Personalized Medicine? - Pawel Labaj
