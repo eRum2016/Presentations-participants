@@ -39,7 +39,7 @@
 		+ [R in the Mittelstand: Bringing Data Science to small and mid-size companies - Oliver Bracht](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%202/Implementing_R_in_the_Mittelstand.pptx)
 		+ R tools and tricks for marketing inference in a big internet company - Pawel Ladyzynski
 		+ [Using Google Analytics with R - Michal Brys](goo.gl/yLg3n9)
-		+ Using R for backtesting algorithmic trading strategies on high-frequency data - Piotr Wojcik
+		+ [Using R for backtesting algorithmic trading strategies on high-frequency data - Piotr Wojcik](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/Business%202/PWojcik_eRum(1).pdf)
 	+ Packages 2  - chairman: Marek Gagolewski
 		+ EnvCpt: An R package for changepoint identification in Environmental data - Rebecca Killick
 		+ archivist 2.0: News from Managing Data Analysis Results Toolkit - Marcin Kosinski
