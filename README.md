@@ -64,7 +64,7 @@
 		+ N-gram analysis of biological sequences in R - Michal Burdukiewicz
 		+ R as an Environment for the Reproducible Analysis of DNA Amplification Experiments - Stefan Rödiger 
 		+ Big data genomics data warehouses analyses with R - Marek Wiewiórka
-		+ Using SparkR with distributed database in Parquet - a genomic example - Michal Okoniewski
+		+ [Using SparkR with distributed database in Parquet - a genomic example - Michal Okoniewski](https://github.com/eRum2016/Presentations-participants/blob/master/13.10/BioR/SparkR_ERUM_MO.pdf)
 8. Poster session
 	+ What are sampling errors in the vegetation studies using visual estimation of presence and cover of plants? R can help - Damian Chmura
 	+ RNA-seq transcriptional profiling of PPD-b-stimulated peripheral blood from cattle infected with Mycobacterium bovis - Carolina Correia
