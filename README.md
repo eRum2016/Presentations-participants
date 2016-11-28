@@ -103,7 +103,7 @@
 		+ [Visualizing changes in demographics with R - Piotr Sobczyk](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/erum_visualization_Sobczyk.pdf)
 		+ [R for pharmacokineticists - smulation of steady-state concentrations of amiodarone in heart compartmental model as an example - Zofia Tylutki](https://github.com/eRum2016/Presentations-participants/blob/master/14.10/Lightning%20talks/erum2016_ZTylutki.pdf)
 	+ Data workflow II - chairman: Marcin Dyderski
-		+ Power of Java's RSession and rKafka in the data science team collaboration - Pawel Cejrowski
+		+ [Power of Java's RSession and rKafka in the data science team collaboration - Pawel Cejrowski](http://erum.pcejrowski.com/)
 		+ R Shiny for Real-time Analytics and Insight Delivery ? A Solution for Complex Data in Agriculture - Ming Shan
 		+ Seamless external R server integration with Excel with step-by-step debugging of the R code - Adam Ryczkowski
 		+ Workflow around modelling in Data Science / R - Filip Stachura
